@@ -34,6 +34,7 @@ body {
 .bubble {
 	background: #F0F8FF;
 	width: 25%;
+	max-height: 50%;
 	border-radius: 50%;
 	position:absolute;
 	text-align: center;
